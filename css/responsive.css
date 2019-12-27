@@ -61,7 +61,7 @@
   #navbar nav a {
     display:none;
     float:right;
-    
+    font-size:1.5em;
   }
   #navbar nav a.menu-icon{
     display:block;
